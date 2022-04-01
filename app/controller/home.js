@@ -10,7 +10,7 @@ class HomeController extends Controller {
       username: 'lpz',
       password: '123'
     }).save()
-    ctx.body = 'hi,pujie'
+    ctx.body = 'hello,pujie'
   }
 }
 
